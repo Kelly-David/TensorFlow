@@ -12,3 +12,7 @@ Create a new virtual environment
 Activate it
 
         source ./bin/activate 
+
+Deactivate it
+
+        deactivate
